@@ -1,0 +1,27 @@
+<!DOCTYPE <html>
+<html>
+  <body>
+    <div id="twitch-embed"></div>
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 1570,
+        height: 774,
+        channel: "mr__cdub__",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["", ""]
+      });
+    </script>
+  </body>
+</html>
+&nbsp; 
+&nbsp;
+<iframe width="1570" height="774" src="LINKHERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!DOCTYPE <html>
+    <head>
+        <style>
+            body {
+            background-color: rgb(60, 26, 255);
+            }
+</html>
